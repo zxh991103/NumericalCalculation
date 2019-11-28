@@ -13,12 +13,33 @@ for i in range(20):
     t=0.5*x[i]
     x.append(t)
 print(q[2])
-x=x[0:10]
-r=r[0:10]
-p=p[0:10]
-q=q[0:10]
+x=x[0:11]
+r=r[0:11]
+p=p[0:11]
+q=q[0:11]
 
 x_r_p_q=np.array([x,r,p,q]).T
 
 print(x_r_p_q)
+
+
+t=[i for i in range(11)]
+
+x_r=[(i[0]-i[1]) for i in x_r_p_q]
+x_p=[(i[0]-i[2]) for i in x_r_p_q]
+x_q=[-(i[0]-i[3]) for i in x_r_p_q]
+
+import matplotlib.pyplot as plt
+
+plt.plot(t,x_r)
+plt.scatter(t,x_r)
+plt.show()
+
+plt.plot(t,x_p)
+plt.scatter(t,x_p)
+plt.show()
+
+plt.plot(t,x_q)
+plt.scatter(t,x_q)
+plt.show()
 
