@@ -15,4 +15,5 @@ x=np.asanyarray(l2)
 y=np.asanyarray(l1)
 
 plt.scatter(x, y)
+plt.savefig('2-1-2.png')
 plt.show()

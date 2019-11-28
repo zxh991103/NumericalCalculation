@@ -54,10 +54,26 @@ for i in range(len(r2)):
     y2.append(i)
 
 print(r0[-1],r1[-1],r2[-1])
+x=np.asanyarray(y0)
+y=np.asanyarray(r0)
+plt.plot(x,y)
+plt.scatter(x, y)
+plt.savefig('2-3-0.png')
+plt.show()
+x=np.asanyarray(y1)
+y=np.asanyarray(r1)
+plt.plot(x,y)
+plt.scatter(x, y)
+plt.savefig('2-3-1.png')
+plt.show()
 
 x=np.asanyarray(y2)
 y=np.asanyarray(r2)
-
+plt.plot(x,y)
 plt.scatter(x, y)
-plt.savefig('D:\\p.png')
+plt.savefig('2-3-2.png')
 plt.show()
+
+print()
+
+

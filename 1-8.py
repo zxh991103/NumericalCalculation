@@ -1,4 +1,5 @@
 import numpy as np
+import csv
 r=[0.994]
 p=[1,0.497]
 q=[1,0.497]
@@ -28,18 +29,40 @@ t=[i for i in range(11)]
 x_r=[(i[0]-i[1]) for i in x_r_p_q]
 x_p=[(i[0]-i[2]) for i in x_r_p_q]
 x_q=[-(i[0]-i[3]) for i in x_r_p_q]
+result = open('data.xls', 'w', encoding='gbk')
+result.write('X\tY\n')
+for m in range(len(x_r_p_q)):
+    for n in range(len(x_r_p_q[m])):
+        result.write(str(x_r_p_q[m][n]))
+        result.write('\t')
+    result.write('\n')
+result.close()
 
 import matplotlib.pyplot as plt
 
 plt.plot(t,x_r)
 plt.scatter(t,x_r)
-plt.show()
 
+
+plt.show()
 plt.plot(t,x_p)
 plt.scatter(t,x_p)
-plt.show()
 
+
+plt.show()
 plt.plot(t,x_q)
 plt.scatter(t,x_q)
+
+
 plt.show()
 
+
+x_r_p_q=np.array([x_r,x_p,x_q]).T
+result = open('data.xls', 'w', encoding='gbk')
+result.write('X\tY\n')
+for m in range(len(x_r_p_q)):
+    for n in range(len(x_r_p_q[m])):
+        result.write(str(x_r_p_q[m][n]))
+        result.write('\t')
+    result.write('\n')
+result.close()
