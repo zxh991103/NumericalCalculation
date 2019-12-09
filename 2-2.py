@@ -13,17 +13,19 @@ B = 3 * np.ones(50)  # data 1
 #     B[i]+=1
 
 
-xa = [np.ones(50).tolist()]
-
-for i in range(500):
-    t = []
-    tem = (B[0] - xa[i][1]) / A[0][0]
-    t.append(tem)
-    for j in range(1, 49):
-        tem = (B[j] - (t[j - 1] + xa[i][j + 1])) / A[j][j]
+def cal(A,B,N,K):
+    xa = [np.ones(N).tolist()]
+    for i in range(K):
+        t = []
+        tem = (B[0] - xa[i][1]) / A[0][0]
         t.append(tem)
-    tem = (B[0] - t[48]) / A[49][49]
-    t.append(tem)
-    xa.append(t)
+        for j in range(1, N-1):
+            tem = (B[j] - (t[j - 1] + xa[i][j + 1])) / A[j][j]
+            t.append(tem)
+        tem = (B[0] - t[N-2]) / A[N-1][N-1]
+        t.append(tem)
+        xa.append(t)
+    return xa[len(xa)-1]
 
-print(xa[len(xa)-1])
+
+print(cal(A,B,50,500))
