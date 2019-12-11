@@ -49,10 +49,10 @@ def createAb(h, a, choice=0, n=10):
         return A, b
     if choice == 1:
         A = np.zeros((n + 1, n + 1))
-        A[0][0] = 2*h[0]
+        A[0][0] = 2 * h[0]
         A[0][1] = h[0]
-        A[n][n-1] = 2*h[n-1]
-        A[n][n] = h[n-1]
+        A[n][n - 1] = 2 * h[n - 1]
+        A[n][n] = h[n - 1]
         for i in range(1, n):
             A[i][i - 1] = h[i - 1]
             A[i][i] = 2 * (h[i - 1] + h[i])
@@ -63,22 +63,22 @@ def createAb(h, a, choice=0, n=10):
         return A, b
     if choice == 2:
         A = np.zeros((n + 1, n + 1))
-        A[0][0] = h[0]*2/3
-        A[0][1] = h[0]*2
-        A[0][n-1] = h[n-1]*2/3
-        A[0][n] = h[n - 1]/ 3
+        A[0][0] = h[0] * 2 / 3
+        A[0][1] = h[0] * 2
+        A[0][n - 1] = h[n - 1] * 2 / 3
+        A[0][n] = h[n - 1] / 3
         A[n][0] = 1
-        A[n][n-1]=-1
+        A[n][n - 1] = -1
         for i in range(1, n):
             A[i][i - 1] = h[i - 1]
             A[i][i] = 2 * (h[i - 1] + h[i])
             A[i][i + 1] = h[i]
         b = np.zeros(n + 1)
-        b[0]=(a[1]-a[0])/h[0] - (a[n]-a[n-1])/h[n-1]
+        b[0] = (a[1] - a[0]) / h[0] - (a[n] - a[n - 1]) / h[n - 1]
         for i in range(1, n):
             b[i] = 3 * (a[i + 1] - a[i]) / h[i] - 3 * (a[i] - a[i - 1]) / h[i - 1]
         return A, b
-    if choice==3:
+    if choice == 3:
         A = np.zeros((n + 1, n + 1))
         A[0][0] = 1
         A[0][1] = -1
@@ -105,44 +105,43 @@ def calcd(a, c, h, n=10):
     return b, d
 
 
-N = 10
 
-a, h, y = initial()
-
-A, B = createAb(h, a, 3, N)
-
-c = cal(A, B)
-
-b, d = calcd(a, c, h, N)
-
-print(len(a))
-print(len(b))
-print(len(c))
-print(len(d))
 
 
 from matplotlib import pyplot as plt
-
-from scipy import interpolate
-
-
-def everysection(a,b,c,d,x,i):
-    xt = np.linspace(x[i], x[i+1], 100)
-    y = d[i] * (xt-x[i]) ** 3 + c[i] * (xt-x[i]) ** 2 + b[i] *(xt-x[i])+a[i]
+def everysection(a, b, c, d, x, i):
+    xt = np.linspace(x[i], x[i + 1], 100)
+    y = d[i] * (xt - x[i]) ** 3 + c[i] * (xt - x[i]) ** 2 + b[i] * (xt - x[i]) + a[i]
     plt.plot(xt, y, color="green", linewidth=0.5)
+
 
 def inplot():
     x = np.linspace(0, np.pi, 100, endpoint=True)
     y = np.sin(x)
-    # plt.plot(x, y,color='pink',linewidth=3)
-def pAll(a,b,c,d,x,N):
+    plt.plot(x, y,color='pink',linewidth=3)
+
+
+def pAll(a, b, c, d, x, N):
     for i in range(N):
-        everysection(a,b,c,d,x,i)
-    plt.scatter(x,a,color='red',marker='o')
+        everysection(a, b, c, d, x, i)
+        print(i)
+    plt.scatter(x, a, color='red', marker='o')
     plt.savefig('a.png')
     plt.show()
 
-inplot()
-pAll(a,b,c,d,x11,N)
 
 
+def run(N=10,X=x11,ch=2):
+    a, h, y = initial(n=N, x=X)
+    A, B = createAb(h, a, choice=ch, n=N)
+    c = cal(A, B)
+    b, d = calcd(a, c, h, N)
+    print(len(a))
+    print(len(b))
+    print(len(c))
+    print(len(d))
+    inplot()
+    pAll(a, b, c, d, x=X, N=N)
+
+
+run(20,x21,1)
