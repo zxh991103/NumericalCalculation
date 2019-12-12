@@ -7,9 +7,7 @@ A0 = [
 ]
 A = np.array(A0)
 
-e, v = np.linalg.eig(A)
-print(e)
-print(v)
+
 
 
 def findmax(x):
@@ -24,7 +22,8 @@ def findmax(x):
 
 
 def f1(N=1000000, TOL=1e-18):
-    x = [1, -1, 1]
+    xr=[]
+    x = [1, 1, 1]
     X = np.array(x).T
     k = 1
     xmax, p = findmax(X)
@@ -34,6 +33,7 @@ def f1(N=1000000, TOL=1e-18):
         y = np.matmul(A, X)
         ymax, yp = findmax(y)
         mu = ymax
+        xr.append(mu)
         if ymax == 0:
             print(X)
             print('please reselect x')
@@ -43,7 +43,7 @@ def f1(N=1000000, TOL=1e-18):
 
         if err < TOL:
             xm, xp = findmax(X)
-            return mu, X/xm, k
+            return mu, X/xm, k,xr
             break
 
 
@@ -60,6 +60,7 @@ def two(X):
 
 def f2(N=1000000, TOL=1e-18):
     x = [1, 1, 1]
+    xr = []
     X = np.array(x).T
     X = X / two(X)
     k = 1
@@ -67,6 +68,7 @@ def f2(N=1000000, TOL=1e-18):
         k += 1
         y = np.matmul(A, X)
         mu = np.matmul(X.T, y)
+        xr.append(mu)
         if two(y) == 0:
             print('Eig', X)
             print('reselect')
@@ -74,7 +76,7 @@ def f2(N=1000000, TOL=1e-18):
         X = y / two(y)
         if ERR < TOL:
             xm,xp=findmax(X)
-            return mu, X/xm, k
+            return mu, X/xm, k,xr
 
 
 print(f2())
@@ -92,10 +94,11 @@ def calq(X):
 
 def f3(N=100000, TOL=1e-18):
     x = [1, -0.1, 0.2]
+    xr=[]
     X = np.array(x).T
     k = 1
     q = calq(X)
-
+    xr.append(q)
     xmax, xp = findmax(X)
     X = X / xmax
 
@@ -103,11 +106,12 @@ def f3(N=100000, TOL=1e-18):
         k += 1
         I = np.eye(len(A))
         q = calq(X)
+        xr.append(q)
         try:
             y = np.array(cal(A - q * I, X)).T
         except:
             ymax, yp = findmax(y)
-            return q, y/ ymax, k
+            return q, y/ ymax, k,xr
         else:
             ymax, yp = findmax(y)
             mu = ymax
@@ -117,7 +121,7 @@ def f3(N=100000, TOL=1e-18):
             if ERR < TOL:
                 mu = (1 / mu) + q
                 xm, xp = findmax(X)
-                return mu, X/xm, k
+                return mu, X/xm, k,xr
 
 
 print(f3())
