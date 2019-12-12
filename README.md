@@ -4,7 +4,7 @@
 ## 支持作者
 
 ![avatar](https://github.com/zxh991103/NumericalCalculation/blob/master/a.png?raw=true)
-![avatar](https://github.com/zxh991103/NumericalCalculation/blob/master/b.png?raw=true)
-![avatar](https://github.com/zxh991103/NumericalCalculation/blob/master/c.png?raw=true)
+![avatar](https://github.com/zxh991103/NumericalCalculation/blob/master/b.jpg?raw=true)
+![avatar](https://github.com/zxh991103/NumericalCalculation/blob/master/c.jpg?raw=true)
 
 ## 9.9yuan 获取目录 && vx在线讲解实验
