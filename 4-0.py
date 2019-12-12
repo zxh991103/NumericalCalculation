@@ -144,4 +144,8 @@ def run(N=10,X=x11,ch=2):
     pAll(a, b, c, d, x=X, N=N)
 
 
+
+run(20,x21,0)
 run(20,x21,1)
+run(20,x21,2)
+run(20,x21,3)
