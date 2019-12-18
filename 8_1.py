@@ -86,3 +86,18 @@ B2=HB(H2,B1)
 print(B2)
 B3=HB(H3,B2)
 print(B3)
+
+
+print(H1)
+print(H2)
+print(H3)
+
+
+for i in B3:
+    i=np.array([i])
+    for j in range(len(i)):
+        if j != len(i)-1:
+            print('{'+str(i[j])[0:7]+'}',end='&')
+        else:
+            print('{' + str(i[j])[0:7] + '}',end='')
+            print('\\\\')

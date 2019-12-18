@@ -120,13 +120,15 @@ def inplot():
     y = np.sin(x)
     plt.plot(x, y,color='pink',linewidth=3)
 
-
+fuck=0
 def pAll(a, b, c, d, x, N):
     for i in range(N):
         everysection(a, b, c, d, x, i)
         print(i)
     plt.scatter(x, a, color='red', marker='o')
-    plt.savefig('a.png')
+    global fuck
+    plt.savefig(str(fuck)+'_'+str(len(x))+'.png')
+    fuck+=1
     plt.show()
 
 
@@ -145,7 +147,7 @@ def run(N=10,X=x11,ch=2):
 
 
 
-run(20,x21,0)
-run(20,x21,1)
-run(20,x21,2)
-run(20,x21,3)
+run(10,x11,0)
+run(10,x11,1)
+run(10,x11,2)
+run(10,x11,3)

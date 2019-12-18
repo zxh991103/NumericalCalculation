@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import math
 
 N = 1000
-mu = 0.01
+mu = 1
 
 
 def f1(t, w1, w2):
@@ -15,9 +15,12 @@ def f2(t, w1, w2):
 
 
 def pt(res):
+    global mu
     plt.plot(np.array(res).T[0], np.array(res).T[1])
+    plt.savefig('6-'+str(mu)+'-01.png')
     plt.show()
     plt.plot(np.array(res).T[0], np.array(res).T[2])
+    plt.savefig('6-' + str(mu) + '-02.png')
     plt.show()
 
 def RungeKutta2(a=0, b=10, n=N, alpha=1 , alpha1=0):

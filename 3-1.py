@@ -56,18 +56,22 @@ cm = plt.cm.get_cmap('RdYlBu')
 ax.view_init(45, 60)
 sc=ax.scatter(pT[0], pT[1], pT[2],c=pT[2], vmin=0, vmax=100, s=35, cmap=cm)
 plt.colorbar(sc)
+plt.savefig('2001_0.png')
 plt.show()
 
 
 plt.plot(pT[0],pT[1])
+plt.savefig('2001_1.png')
 plt.show()
 
 
 plt.plot(pT[0],pT[2])
+plt.savefig('2001_2.png')
 plt.show()
 
 
 plt.plot(pT[1],pT[2])
+plt.savefig('2001_3.png')
 plt.show()
 
 
@@ -90,6 +94,7 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.legend(loc=4) #指定legend的位置右下角
 plt.title('polyfitting')
+plt.savefig('2001_4.png')
 plt.show()
 
 
@@ -112,4 +117,5 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.legend(loc=4) #指定legend的位置右下角
 plt.title('polyfitting')
+plt.savefig('2001_5.png')
 plt.show()

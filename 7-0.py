@@ -23,5 +23,6 @@ x = np.linspace(-3, 3, 100, endpoint=True)
 y = X[2]*x*x+X[1]*x+X[0]
 plt.plot(x, y,color='pink',linewidth=1)
 plt.scatter(x_array,y_array)
+plt.savefig('8.png')
 plt.show()
 

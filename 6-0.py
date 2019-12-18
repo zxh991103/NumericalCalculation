@@ -71,5 +71,5 @@ res3 = RungeKutta()
 pt(res3, 'blue')
 
 inplot()
-
+plt.savefig('6-0.png')
 plt.show()
