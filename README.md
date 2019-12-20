@@ -13,7 +13,9 @@
 
 ## 支持作者
 
-![avatar](https://github.com/zxh991103/NumericalCalculation/blob/master/a.jpg?raw=true)
 
 
-## 可加vx
+
+## 可加vx：zxh990307
+
+
