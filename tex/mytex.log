@@ -1,0 +1,1589 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.10.11)  20 DEC 2019 10:06
+entering extended mode
+**E:/tex/mytex.tex
+(E:/tex/mytex.tex
+LaTeX2e <2018-12-01>
+(D:\MIKTEX\tex/latex/ctex\ctexart.cls (D:\MIKTEX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2019-10-02 L3 programming layer (loader) 
+
+(D:\MIKTEX\tex/latex/l3kernel\expl3-code.tex
+Package: expl3 2019-10-02 L3 programming layer (code)
+\c_max_int=\count80
+\l_tmpa_int=\count81
+\l_tmpb_int=\count82
+\g_tmpa_int=\count83
+\g_tmpb_int=\count84
+\l__seq_internal_a_int=\count85
+\l__seq_internal_b_int=\count86
+\g__kernel_prg_map_int=\count87
+\c__ior_term_noprompt_ior=\count88
+\c_log_iow=\count89
+\l_iow_line_count_int=\count90
+\l__iow_line_target_int=\count91
+\l__iow_one_indent_int=\count92
+\l__iow_indent_int=\count93
+\c_zero_dim=\dimen102
+\c_max_dim=\dimen103
+\l_tmpa_dim=\dimen104
+\l_tmpb_dim=\dimen105
+\g_tmpa_dim=\dimen106
+\g_tmpb_dim=\dimen107
+\c_zero_skip=\skip41
+\c_max_skip=\skip42
+\l_tmpa_skip=\skip43
+\l_tmpb_skip=\skip44
+\g_tmpa_skip=\skip45
+\g_tmpb_skip=\skip46
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count94
+\l__intarray_loop_int=\count95
+\c__intarray_sp_dim=\dimen108
+\g__intarray_font_int=\count96
+\c__fp_leading_shift_int=\count97
+\c__fp_middle_shift_int=\count98
+\c__fp_trailing_shift_int=\count99
+\c__fp_big_leading_shift_int=\count100
+\c__fp_big_middle_shift_int=\count101
+\c__fp_big_trailing_shift_int=\count102
+\c__fp_Bigg_leading_shift_int=\count103
+\c__fp_Bigg_middle_shift_int=\count104
+\c__fp_Bigg_trailing_shift_int=\count105
+\c__kernel_randint_max_int=\count106
+\g__fp_array_int=\count107
+\l__fp_array_loop_int=\count108
+\l__sort_length_int=\count109
+\l__sort_min_int=\count110
+\l__sort_top_int=\count111
+\l__sort_max_int=\count112
+\l__sort_true_max_int=\count113
+\l__sort_block_int=\count114
+\l__sort_begin_int=\count115
+\l__sort_end_int=\count116
+\l__sort_A_int=\count117
+\l__sort_B_int=\count118
+\l__sort_C_int=\count119
+\l__str_internal_int=\count120
+\c__str_replacement_char_int=\count121
+\l__tl_analysis_normal_int=\count122
+\l__tl_analysis_index_int=\count123
+\l__tl_analysis_nesting_int=\count124
+\l__tl_analysis_type_int=\count125
+\l__regex_internal_a_int=\count126
+\l__regex_internal_b_int=\count127
+\l__regex_internal_c_int=\count128
+\l__regex_balance_int=\count129
+\l__regex_group_level_int=\count130
+\l__regex_mode_int=\count131
+\c__regex_cs_in_class_mode_int=\count132
+\c__regex_cs_mode_int=\count133
+\l__regex_catcodes_int=\count134
+\l__regex_default_catcodes_int=\count135
+\c__regex_catcode_D_int=\count136
+\c__regex_catcode_S_int=\count137
+\c__regex_catcode_L_int=\count138
+\c__regex_catcode_O_int=\count139
+\c__regex_catcode_A_int=\count140
+\c__regex_all_catcodes_int=\count141
+\l__regex_show_lines_int=\count142
+\l__regex_min_state_int=\count143
+\l__regex_max_state_int=\count144
+\l__regex_left_state_int=\count145
+\l__regex_right_state_int=\count146
+\l__regex_capturing_group_int=\count147
+\l__regex_min_pos_int=\count148
+\l__regex_max_pos_int=\count149
+\l__regex_curr_pos_int=\count150
+\l__regex_start_pos_int=\count151
+\l__regex_success_pos_int=\count152
+\l__regex_curr_char_int=\count153
+\l__regex_curr_catcode_int=\count154
+\l__regex_last_char_int=\count155
+\l__regex_case_changed_char_int=\count156
+\l__regex_curr_state_int=\count157
+\l__regex_step_int=\count158
+\l__regex_min_active_int=\count159
+\l__regex_max_active_int=\count160
+\l__regex_replacement_csnames_int=\count161
+\l__regex_match_count_int=\count162
+\l__regex_min_submatch_int=\count163
+\l__regex_submatch_int=\count164
+\l__regex_zeroth_submatch_int=\count165
+\g__regex_trace_regex_int=\count166
+\c_empty_box=\box27
+\l_tmpa_box=\box28
+\l_tmpb_box=\box29
+\g_tmpa_box=\box30
+\g_tmpb_box=\box31
+\l__box_top_dim=\dimen109
+\l__box_bottom_dim=\dimen110
+\l__box_left_dim=\dimen111
+\l__box_right_dim=\dimen112
+\l__box_top_new_dim=\dimen113
+\l__box_bottom_new_dim=\dimen114
+\l__box_left_new_dim=\dimen115
+\l__box_right_new_dim=\dimen116
+\l__box_internal_box=\box32
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen117
+\l__coffin_offset_x_dim=\dimen118
+\l__coffin_offset_y_dim=\dimen119
+\l__coffin_x_dim=\dimen120
+\l__coffin_y_dim=\dimen121
+\l__coffin_x_prime_dim=\dimen122
+\l__coffin_y_prime_dim=\dimen123
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\g_tmpa_coffin=\box39
+\g_tmpb_coffin=\box40
+\l__coffin_bounding_shift_dim=\dimen124
+\l__coffin_left_corner_dim=\dimen125
+\l__coffin_right_corner_dim=\dimen126
+\l__coffin_bottom_corner_dim=\dimen127
+\l__coffin_top_corner_dim=\dimen128
+\l__coffin_scaled_total_height_dim=\dimen129
+\l__coffin_scaled_width_dim=\dimen130
+\c__coffin_empty_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen131
+\l__coffin_display_x_dim=\dimen132
+\l__coffin_display_y_dim=\dimen133
+\g__char_data_ior=\read1
+
+(D:\MIKTEX\tex/latex/l3kernel\l3deprecation.def
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+(D:\MIKTEX\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2019-04-06 v L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+))
+Document Class: ctexart 2019/05/29 v2.4.16 Chinese adapter for class article (C
+TEX)
+(D:\MIKTEX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+)
+(D:\MIKTEX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
+)
+(D:\MIKTEX\tex/latex/ctex\ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+) (D:\MIKTEX\tex/latex/ctex\ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+) (D:\MIKTEX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (D:\MIKTEX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(D:\MIKTEX\tex/latex/base\ts1enc.dfu
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))) (D:\MIKTEX\tex/latex/ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count172
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count173
+\g__ctex_font_size_int=\count174
+
+(D:\MIKTEX\tex/latex/ctex/config\ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+)
+(D:\MIKTEX\tex/latex/base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(D:\MIKTEX\tex/latex/base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+(D:\MIKTEX\tex/latex/ctex/engine\ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2019/05/29 v2.4.16 (pdf)LaTeX adapter (CTEX)
+
+(D:\MIKTEX\tex/latex/cjk\CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+ (D:\MIKTEX\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (D:\MIKTEX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (D:\MIKTEX\tex/latex/cjk\CJK.sty
+Package: CJK 2015/04/18 4.8.4
+
+(D:\MIKTEX\tex/latex/cjk/mule\MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (D:\MIKTEX\tex/latex/cjk\CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box47
+)
+(D:\MIKTEX\tex/latex/base\fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+))
+(D:\MIKTEX\tex/latex/cjkpunct\CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count183
+\CJKpunct@cntb=\count184
+\CJKpunct@cntc=\count185
+\CJKpunct@cntd=\count186
+\CJKpunct@cnte=\count187
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(D:\MIKTEX\tex/latex/cjkpunct\CJKpunct.spa))
+(D:\MIKTEX\tex/latex/cjk\CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+) (D:\MIKTEX\tex/latex/ctex\ctexspa.def
+File: ctexspa.def 2019/05/29 v2.4.16 Space info for CJKpunct (CTEX)
+)
+(D:\MIKTEX\tex/latex/cjk\CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+ (D:\MIKTEX\tex/latex/cjk\CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
+
+(D:\MIKTEX\tex/latex/ulem\ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip49
+\UL@hook=\toks16
+\UL@height=\dimen136
+\UL@pe=\count188
+\UL@pixel=\dimen137
+\ULC@box=\box50
+Package: ulem 2012/05/18
+\ULdepth=\dimen138
+)
+\UL@lastkern=\dimen139
+\CJK@skip=\skip50
+)
+\CJK@fntefSkip=\skip51
+\CJK@nest=\count189
+\CJK@fntefDimen=\dimen140
+\CJK@underdotBox=\box51
+\CJK@ULbox=\box52
+\CJK@underanyskip=\dimen141
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip52
+)
+\l__ctex_ziju_dim=\dimen143
+
+(D:\MIKTEX\tex/latex/zhnumber\zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count190
+\l__zhnum_byte_min_int=\count191
+\l__zhnum_byte_max_int=\count192
+
+(D:\MIKTEX\tex/latex/zhnumber\zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip53
+
+(D:\MIKTEX\tex/latex/ctex/scheme\ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2019/05/29 v2.4.16 Chinese scheme for art
+icle (CTEX)
+
+(D:\MIKTEX\tex/latex/ctex/config\ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+))
+(D:\MIKTEX\tex/latex/ctex\ctex-c5size.clo
+File: ctex-c5size.clo 2019/05/29 v2.4.16 c5size option (CTEX)
+)
+(D:\MIKTEX\tex/latex/ctex/fontset\ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2019/05/29 v2.4.16 Windows fonts definition (CTE
+X)
+
+(D:\MIKTEX\tex/latex/ctex/fontset\ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2019/05/29 v2.4.16 Windows fonts definition f
+or Vista or later version (CTEX)
+
+(D:\MIKTEX\tex/generic/ctex\zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2019/05/29 v2.4.16 Windows font map loader for pdfTeX 
+and DVIPDFMx (CTEX)
+{C:/Users/zhao xiao hui/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}{UGBK
+.sfd}{Unicode.sfd}))))
+(D:\MIKTEX\tex/latex/ctex/config\ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+)
+(D:\MIKTEX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+
+(D:\MIKTEX\tex/generic/oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(D:\MIKTEX\tex/generic/oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(D:\MIKTEX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(D:\MIKTEX\tex/generic/ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(D:\MIKTEX\tex/latex/oberdiek\auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(D:\MIKTEX\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen144
+\Hy@linkcounter=\count193
+\Hy@pagecounter=\count194
+
+(D:\MIKTEX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count195
+
+(D:\MIKTEX\tex/latex/00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4424.
+
+(D:\MIKTEX\tex/latex/hyperref\puenc.def
+File: puenc.def 2019/06/12 v6.88h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count196
+ (D:\MIKTEX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen145
+\Fld@menulength=\count197
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring OFF on input line 6431.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count198
+\c@Item=\count199
+\c@Hfootnote=\count266
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(D:\MIKTEX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count267
+\c@bookmark@seq@number=\count268
+
+(D:\MIKTEX\tex/latex/oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip54
+)
+(D:\MIKTEX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+)
+(D:\MIKTEX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MIKTEX\tex/latex/graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MIKTEX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MIKTEX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(D:\MIKTEX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(D:\MIKTEX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks18
+\float@box=\box53
+\@float@everytoks=\toks19
+\@floatcapt=\box54
+) (D:\MIKTEX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+(D:\MIKTEX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\MIKTEX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen150
+))
+(D:\MIKTEX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+)
+(D:\MIKTEX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip17
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks21
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks22
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks23
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(D:\MIKTEX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MIKTEX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MIKTEX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (D:\MIKTEX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\MIKTEX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\MIKTEX\tex/latex/oberdiek\accsupp.sty
+Package: accsupp 2018/03/28 v0.5 Accessibility support by marked content (HO)
+
+(D:\MIKTEX\tex/latex/oberdiek\accsupp-pdftex.def
+File: accsupp-pdftex.def 2018/03/28 v0.5 accsupp driver for pdfTeX (HO)
+))
+(D:\MIKTEX\tex/latex/listings\listings.sty
+\lst@mode=\count282
+\lst@gtempboxa=\box57
+\lst@token=\toks25
+\lst@length=\count283
+\lst@currlwidth=\dimen159
+\lst@column=\count284
+\lst@pos=\count285
+\lst@lostspace=\dimen160
+\lst@width=\dimen161
+\lst@newlines=\count286
+\lst@lineno=\count287
+\lst@maxwidth=\dimen162
+
+(D:\MIKTEX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count288
+\lst@skipnumbers=\count289
+\lst@framebox=\box58
+)
+(D:\MIKTEX\tex/latex/listings\listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(D:\MIKTEX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+(D:\MIKTEX\tex/latex/cjk/UTF8\UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (D:\MIKTEX\tex/latex/cjk/UTF8\UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+) (D:\MIKTEX\tex/latex/cjk/UTF8\UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+) (mytex.aux)
+\openout1 = `mytex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 41.
+\AtBeginShipoutBox=\box59
+Package hyperref Info: Link coloring OFF on input line 41.
+
+(D:\MIKTEX\tex/latex/hyperref\nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(D:\MIKTEX\tex/generic/oberdiek\gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count290
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+ (mytex.out) (mytex.out)
+\@outlinefile=\write3
+\openout3 = `mytex.out'.
+
+
+(D:\MIKTEX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen163
+\scratchbox=\box60
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen164
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks27
+) (D:\MIKTEX\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\MIKTEX\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count297
+<logo.jpg, id=119, 597.23125pt x 597.23125pt>
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 45.
+(pdftex.def)             Requested size: 227.62459pt x 227.62459pt.
+LaTeX Font Info:    Try loading font information for C70+rm on input line 54.
+
+(D:\MIKTEX\tex/latex/ctex/fd\c70rm.fd
+File: c70rm.fd 2019/05/29 v2.4.16 Chinese font definition (CTEX)
+)
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
+quanjiao) on input line 63.
+
+(D:\MIKTEX\tex/generic/ctex\zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2019/05/29 v2.4.16 Windows font map loader for pdfTeX 
+and DVIPDFMx (CTEX)
+) [1
+
+ <./logo.jpg>] (mytex.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(D:\MIKTEX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+ (D:\MIKTEX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[2])
+\tf@toc=\write4
+\openout4 = `mytex.toc'.
+
+ [3]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.86 \newpage
+              [1]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 143.
+
+ (D:\MIKTEX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.53937> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 	    t 
+             = pow(b * b - 4 * a * c, 0.5) [2]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 171.
+
+
+(D:\MIKTEX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.53937> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 171.
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 (
+       c)$q_0=1,q_1=0.497,q_n=\frac{5}{2} q_{n-1} - q_{n-2}$,ÂÖ∂‰∏≠$n=2,3, \...
+[3] [4] [5pdfTeX warning (ext4): destination with the same identifier (name{tab
+le.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.288 
+      ]
+<1-2-1.png, id=416, 462.528pt x 346.896pt>
+File: 1-2-1.png Graphic file (type png)
+<use 1-2-1.png>
+Package pdftex.def Info: 1-2-1.png  used on input line 295.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+<1-2-2.png, id=418, 462.528pt x 346.896pt>
+File: 1-2-2.png Graphic file (type png)
+<use 1-2-2.png>
+Package pdftex.def Info: 1-2-2.png  used on input line 302.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.305 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.305 
+       <./1-2-1.png>]
+<1-2-3.png, id=426, 462.528pt x 346.896pt>
+File: 1-2-3.png Graphic file (type png)
+<use 1-2-3.png>
+Package pdftex.def Info: 1-2-3.png  used on input line 310.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.313 
+       <./1-2-2.png>] [8pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.317 \newpage
+               <./1-2-3.png>]
+Overfull \hbox (66.15256pt too wide) in paragraph at lines 325--326
+[]\C70/rm/m/n/10.53937/63  \C70/rm/m/n/10.53937/51 ˙ \C70/rm/m/n/10.53937/57 (
+ \C70/rm/m/n/10.53937/8f Ÿ \C70/rm/m/n/10.53937/79 Õ \C70/rm/m/n/10.53937/60 ≈ 
+\C70/rm/m/n/10.53937/51 µ \C70/rm/m/n/10.53937/4e  \C70/rm/m/n/10.53937/4f  \
+C70/rm/m/n/10.53937/51 ˙ \C70/rm/m/n/10.53937/73 ∞ \C70/rm/m/n/10.53937/54 Í \C
+70/rm/m/n/10.53937/79 Õ \C70/rm/m/n/10.53937/7c { \C70/rm/m/n/10.53937/57 ã \C7
+0/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/8b Ô \C70/rm/m/n/10.53937/5d Ó|\C70
+/rm/m/n/10.53937/ff | \C70/rm/m/n/10.53937/5e v \C70/rm/m/n/10.53937/5c  \C70
+/rm/m/n/10.53937/8b ° \C70/rm/m/n/10.53937/7b ó \C70/rm/m/n/10.53937/7e ” \C70/
+rm/m/n/10.53937/67 ú \C70/rm/m/n/10.53937/4e  \C70/rm/m/n/10.53937/77  \C70/r
+m/m/n/10.53937/5b û \C70/rm/m/n/10.53937/50 <\OT1/cmr/m/n/10.53937 p=0.25530746
+06\C70/rm/m/n/10.53937/8f €
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--374
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 415--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--418
+
+ []
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 422.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 422.
+[10] [11]
+<2-1-1.png, id=467, 462.528pt x 346.896pt>
+File: 2-1-1.png Graphic file (type png)
+<use 2-1-1.png>
+Package pdftex.def Info: 2-1-1.png  used on input line 497.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [12] [13pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.521 	l2=
+          [] <./2-1-1.png>]
+<2-1-2.png, id=509, 462.528pt x 346.896pt>
+File: 2-1-2.png Graphic file (type png)
+<use 2-1-2.png>
+Package pdftex.def Info: 2-1-2.png  used on input line 534.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.546 $$
+         <./2-1-2.png>]
+<2-1-3.png, id=528, 462.528pt x 346.896pt>
+File: 2-1-3.png Graphic file (type png)
+<use 2-1-3.png>
+Package pdftex.def Info: 2-1-3.png  used on input line 590.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [15] [16pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.624 p
+       ythonÂÆûÁé∞‰ª£Á†ÅÂ¶Ç‰∏ãÔºö <./2-1-3.png>] [17] [18] [19]
+<2-3-0.png, id=660, 462.528pt x 346.896pt>
+File: 2-3-0.png Graphic file (type png)
+<use 2-3-0.png>
+Package pdftex.def Info: 2-3-0.png  used on input line 751.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+<2-3-1.png, id=661, 462.528pt x 346.896pt>
+File: 2-3-1.png Graphic file (type png)
+<use 2-3-1.png>
+Package pdftex.def Info: 2-3-1.png  used on input line 758.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.761 
+       <./2-3-0.png>]
+<2-3-2.png, id=674, 462.528pt x 346.896pt>
+File: 2-3-2.png Graphic file (type png)
+<use 2-3-2.png>
+Package pdftex.def Info: 2-3-2.png  used on input line 764.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.767 
+       <./2-3-1.png>]
+Overfull \hbox (25.2367pt too wide) in paragraph at lines 768--769
+[]\C70/rm/m/n/10.53937/65 6 [ \C70/rm/m/n/10.53937/8f « \C70/rm/m/n/10.53937/7a
+  \C70/rm/m/n/10.53937/4e  \C70/rm/m/n/10.53937/54 |\C70/rm/m/n/10.53937/ff 
+| \C70/rm/m/n/10.53937/67   \C70/rm/m/n/10.53937/54  \C70/rm/m/n/10.53937/52 
+ + \C70/rm/m/n/10.53937/65 6 [ \C70/rm/m/n/10.53937/52 0\OT1/cmr/m/n/10.53937 
+1.8958096931257646|\C70/rm/m/n/10.53937/ff | \OT1/cmr/m/n/10.53937 -1.89518896
+00105052|\C70/rm/m/n/10.53937/ff |
+ []
+
+[22pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.787 	        x2=
+                  x <./2-3-2.png>] [23] [24] [25] [26] [27] [28] [29] [30]
+Overfull \hbox (2.5884pt too wide) in paragraph at lines 1087--1088
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[31]
+Overfull \hbox (2.5884pt too wide) in paragraph at lines 1102--1103
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.5884pt too wide) in paragraph at lines 1120--1121
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[32]
+Overfull \hbox (2.5884pt too wide) in paragraph at lines 1137--1138
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[33]
+<4-0_11.png, id=1021, 462.528pt x 346.896pt>
+File: 4-0_11.png Graphic file (type png)
+<use 4-0_11.png>
+Package pdftex.def Info: 4-0_11.png  used on input line 1202.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+<4-1_11.png, id=1022, 462.528pt x 346.896pt>
+File: 4-1_11.png Graphic file (type png)
+<use 4-1_11.png>
+Package pdftex.def Info: 4-1_11.png  used on input line 1207.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [34]
+<4-2_11.png, id=1050, 462.528pt x 346.896pt>
+File: 4-2_11.png Graphic file (type png)
+<use 4-2_11.png>
+Package pdftex.def Info: 4-2_11.png  used on input line 1212.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [35pdfTeX warning (ext4): destination with the same identifier (name{figure.10
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1214 \end{figure}
+                    <./4-0_11.png>]
+<4-3_11.png, id=1057, 462.528pt x 346.896pt>
+File: 4-3_11.png Graphic file (type png)
+<use 4-3_11.png>
+Package pdftex.def Info: 4-3_11.png  used on input line 1217.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [36pdfTeX warning (ext4): destination with the same identifier (name{figure.11
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1219 \end{figure}
+                    <./4-1_11.png>] [37pdfTeX warning (ext4): destination with 
+the same identifier (name{figure.12}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1220 
+        <./4-2_11.png>]
+<4-0_21.png, id=1070, 462.528pt x 346.896pt>
+File: 4-0_21.png Graphic file (type png)
+<use 4-0_21.png>
+Package pdftex.def Info: 4-0_21.png  used on input line 1223.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+<4-1_21.png, id=1071, 462.528pt x 346.896pt>
+File: 4-1_21.png Graphic file (type png)
+<use 4-1_21.png>
+Package pdftex.def Info: 4-1_21.png  used on input line 1228.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [38pdfTeX warning (ext4): destination with the same identifier (name{figure.13
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1230 \end{figure}
+                    <./4-3_11.png>]
+<4-2_21.png, id=1078, 462.528pt x 346.896pt>
+File: 4-2_21.png Graphic file (type png)
+<use 4-2_21.png>
+Package pdftex.def Info: 4-2_21.png  used on input line 1233.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [39pdfTeX warning (ext4): destination with the same identifier (name{figure.14
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1235 \end{figure}
+                    <./4-0_21.png>]
+<4-3_21.png, id=1085, 462.528pt x 346.896pt>
+File: 4-3_21.png Graphic file (type png)
+<use 4-3_21.png>
+Package pdftex.def Info: 4-3_21.png  used on input line 1238.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [40pdfTeX warning (ext4): destination with the same identifier (name{figure.15
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1240 \end{figure}
+                    <./4-1_21.png>] [41pdfTeX warning (ext4): destination with 
+the same identifier (name{figure.16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1241 \newpage
+                <./4-2_21.png>] [42pdfTeX warning (ext4): destination with the 
+same identifier (name{figure.17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1241 \newpage
+                <./4-3_21.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1245--1247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1245--1247
+
+ []
+
+
+Overfull \hbox (3.8108pt too wide) in paragraph at lines 1250--1251
+[]\OT1/cmr/m/n/10.53937 a.S(x)\C70/rm/m/n/10.53937/57 ( \C70/rm/m/n/10.53937/5b
+ P \C70/rm/m/n/10.53937/53 : \C70/rm/m/n/10.53937/95 Ù$\OT1/cmr/m/n/10.53937 [\
+OML/cmm/m/it/10.53937 x[]; x[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 j \
+OT1/cmr/m/n/10.53937 = 0\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 1\OML/cm
+m/m/it/10.53937 ; []  ; n \OMS/cmsy/m/n/10.53937   \OT1/cmr/m/n/10.53937 1)]$\C
+70/rm/m/n/10.53937/4e 
+ \C70/rm/m/n/10.53937/66 / \C70/rm/m/n/10.53937/4e 	 \C70/rm/m/n/10.53937/6b ! 
+\C70/rm/m/n/10.53937/59  \C70/rm/m/n/10.53937/98 y \C70/rm/m/n/10.53937/5f |\
+C70/rm/m/n/10.53937/ff | \C70/rm/m/n/10.53937/8b ∞ \C70/rm/m/n/10.53937/4e :$\
+OML/cmm/m/it/10.53937 S[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x\OT1/cm
+r/m/n/10.53937 )$ 
+ []
+
+[43] [44] [45]
+Overfull \hbox (6.20258pt too wide) detected at line 1428
+\OML/cmm/m/it/10.53937 A \OT1/cmr/m/n/10.53937 = []
+ []
+
+[46]
+Overfull \hbox (16.63274pt too wide) detected at line 1468
+\OML/cmm/m/it/10.53937 A \OT1/cmr/m/n/10.53937 = []
+ []
+
+[47] [48] [49] [50] [51]
+Overfull \hbox (53.27147pt too wide) in paragraph at lines 1636--1637
+[]\C70/rm/m/n/10.53937/4f  \C70/rm/m/n/10.53937/75 ( \C70/rm/m/n/10.53937/59 
+ \C70/rm/m/n/10.53937/54  \C70/rm/m/n/10.53937/68 Ø \C70/rm/m/n/10.53937/5f b 
+\C70/rm/m/n/10.53937/51 l \C70/rm/m/n/10.53937/5f  \C70/rm/m/n/10.53937/8b ° \
+C70/rm/m/n/10.53937/7b ó \C70/rm/m/n/10.53937/7e ” \C70/rm/m/n/10.53937/67 ú \C
+70/rm/m/n/10.53937/4e :|\C70/rm/m/n/10.53937/ff | \OT1/cmr/m/n/10.53937 0.3413
+44746068546,\C70/rm/m/n/10.53937/8b Ô \C70/rm/m/n/10.53937/5d Ó \C70/rm/m/n/10.
+53937/4e :$\OMS/cmsy/m/n/10.53937  \OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.5393
+7 :\OT1/cmr/m/n/10.53937 9976021664879227 \OMS/cmsy/m/n/10.53937 
+ []
+
+
+Overfull \hbox (36.34993pt too wide) in paragraph at lines 1638--1639
+[]\C70/rm/m/n/10.53937/4f  \C70/rm/m/n/10.53937/75 (\OT1/cmr/m/n/10.53937 Simp
+son\C70/rm/m/n/10.53937/51 l \C70/rm/m/n/10.53937/5f  \C70/rm/m/n/10.53937/8b 
+° \C70/rm/m/n/10.53937/7b ó \C70/rm/m/n/10.53937/7e ” \C70/rm/m/n/10.53937/67 ú
+ \C70/rm/m/n/10.53937/4e :|\C70/rm/m/n/10.53937/ff | \OT1/cmr/m/n/10.53937 0.3
+413447259043159,\C70/rm/m/n/10.53937/8b Ô \C70/rm/m/n/10.53937/5d Ó \C70/rm/m/n
+/10.53937/4e :$\OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 :\OT1/cmr/m/n/10.5
+3937 01642270658553 \OMS/cmsy/m/n/10.53937 
+ []
+
+[52] [53]
+Underfull \hbox (badness 10000) in paragraph at lines 1696--1697
+
+ []
+
+[54] [55] [56] [57] [58]
+<6-0.png, id=1328, 462.528pt x 346.896pt>
+File: 6-0.png Graphic file (type png)
+<use 6-0.png>
+Package pdftex.def Info: 6-0.png  used on input line 1874.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [59pdfTeX warning (ext4): destination with the same identifier (name{figure.18
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1893 ÂàÜ
+          Âà´Âèñ$ \mu =0.01 ,0.1 ,1$ Ôºå‰ΩúÂõæÊØîËæÉËÆ°ÁÆóÁªìÊûú <./6-0.png>]
+[60]
+<6-001-01.png, id=1378, 462.528pt x 346.896pt>
+File: 6-001-01.png Graphic file (type png)
+<use 6-001-01.png>
+Package pdftex.def Info: 6-001-01.png  used on input line 1949.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+<6-001-02.png, id=1379, 462.528pt x 346.896pt>
+File: 6-001-02.png Graphic file (type png)
+<use 6-001-02.png>
+Package pdftex.def Info: 6-001-02.png  used on input line 1955.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [61pdfTeX warning (ext4): destination with the same identifier (name{figure.19
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1958 
+        <./6-001-01.png>]
+<6-01-01.png, id=1399, 462.528pt x 346.896pt>
+File: 6-01-01.png Graphic file (type png)
+<use 6-01-01.png>
+Package pdftex.def Info: 6-01-01.png  used on input line 1964.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [62pdfTeX warning (ext4): destination with the same identifier (name{figure.20
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1967 
+        <./6-001-02.png>]
+<6-01-02.png, id=1406, 462.528pt x 346.896pt>
+File: 6-01-02.png Graphic file (type png)
+<use 6-01-02.png>
+Package pdftex.def Info: 6-01-02.png  used on input line 1970.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [63pdfTeX warning (ext4): destination with the same identifier (name{figure.21
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1973 
+        <./6-01-01.png>]
+<6-1-01.png, id=1413, 462.528pt x 346.896pt>
+File: 6-1-01.png Graphic file (type png)
+<use 6-1-01.png>
+Package pdftex.def Info: 6-1-01.png  used on input line 1979.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [64pdfTeX warning (ext4): destination with the same identifier (name{figure.22
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1982 
+        <./6-01-02.png>]
+<6-1-02.png, id=1421, 462.528pt x 346.896pt>
+File: 6-1-02.png Graphic file (type png)
+<use 6-1-02.png>
+Package pdftex.def Info: 6-1-02.png  used on input line 1985.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [65pdfTeX warning (ext4): destination with the same identifier (name{figure.23
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1988 
+        <./6-1-01.png>] [66pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.24}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1989 \newpage
+                <./6-1-02.png>] [67pdfTeX warning (ext4): destination with the 
+same identifier (name{table.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2038 	plt.
+            show()]
+<8.png, id=1463, 462.528pt x 346.896pt>
+File: 8.png Graphic file (type png)
+<use 8.png>
+Package pdftex.def Info: 8.png  used on input line 2045.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [68pdfTeX warning (ext4): destination with the same identifier (name{figure.25
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2060 \newpage
+                <./8.png>] [69] [70] [71] [72] [73] [74] [75] [76]
+Overfull \hbox (18.63089pt too wide) in paragraph at lines 2418--2419
+[]\C70/rm/m/n/10.53937/75 ( \C70/rm/m/n/10.53937/4e Â 
+$\OML/cmm/m/it/10.53937 H[]; H[]; H[]$\C70/rm/m/n/10.53937/5f ó \C70/rm/m/n/10.
+53937/51 ˙ \C70/rm/m/n/10.53937/76 Ñ$\OML/cmm/m/it/10.53937 H[]A; H[]b; H[]H[]A
+; H[]H[]b; H[]H[]H[]A; H[]H[]H[]b$\C70/rm/m/n/10.53937/59 Ç
+ []
+
+[77] [78] [79] [80] [81]
+<2001_0.png, id=1819, 462.528pt x 346.896pt>
+File: 2001_0.png Graphic file (type png)
+<use 2001_0.png>
+Package pdftex.def Info: 2001_0.png  used on input line 2595.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+<2001_1.png, id=1820, 462.528pt x 346.896pt>
+File: 2001_1.png Graphic file (type png)
+<use 2001_1.png>
+Package pdftex.def Info: 2001_1.png  used on input line 2600.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+<2001_2.png, id=1821, 462.528pt x 346.896pt>
+File: 2001_2.png Graphic file (type png)
+<use 2001_2.png>
+Package pdftex.def Info: 2001_2.png  used on input line 2605.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [82pdfTeX warning (ext4): destination with the same identifier (name{figure.26
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2607 \end{figure}
+                    <./2001_0.png>]
+<2001_3.png, id=1840, 462.528pt x 346.896pt>
+File: 2001_3.png Graphic file (type png)
+<use 2001_3.png>
+Package pdftex.def Info: 2001_3.png  used on input line 2610.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [83pdfTeX warning (ext4): destination with the same identifier (name{figure.27
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2612 \end{figure}
+                    <./2001_1.png>]
+<2001_4.png, id=1847, 462.528pt x 346.896pt>
+File: 2001_4.png Graphic file (type png)
+<use 2001_4.png>
+Package pdftex.def Info: 2001_4.png  used on input line 2615.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [84pdfTeX warning (ext4): destination with the same identifier (name{figure.28
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2617 \end{figure}
+                    <./2001_2.png>]
+<2001_5.png, id=1854, 462.528pt x 346.896pt>
+File: 2001_5.png Graphic file (type png)
+<use 2001_5.png>
+Package pdftex.def Info: 2001_5.png  used on input line 2620.
+(pdftex.def)             Requested size: 284.54124pt x 256.08499pt.
+ [85pdfTeX warning (ext4): destination with the same identifier (name{figure.29
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2622 \end{figure}
+                    <./2001_3.png>] [86pdfTeX warning (ext4): destination with 
+the same identifier (name{figure.30}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2623 
+        <./2001_4.png>] [87pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.31}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2644 \newpage
+                <./2001_5.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2650.
+ [88]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2650.
+ (mytex.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2650.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2650.
+
+Package rerunfilecheck Info: File `mytex.out' has not changed.
+(rerunfilecheck)             Checksum: E19239059B3CF1B462E6D00E93F92CBA;3253.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2650.
+ ) 
+Here is how much of TeX's memory you used:
+ 28603 strings out of 492895
+ 474385 string characters out of 3141836
+ 685372 words of memory out of 3000000
+ 30707 multiletter control sequences out of 15000+200000
+ 583835 words of font info for 217 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,12n,61p,818b,1952s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/s
+imsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:
+/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
+.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
+s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIND
+OWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc>
+<C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/sim
+sun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
+onts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/W
+INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.t
+tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
+simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
+S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C
+:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsu
+n.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
+ts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
+DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc
+><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/si
+msun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/
+Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/
+WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.
+ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts
+/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDO
+WS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><
+C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simh
+ei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fo
+nts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WI
+NDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.tt
+f><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/s
+imhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:
+/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
+.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
+s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIND
+OWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc>
+<C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/sim
+hei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/F
+onts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><D:/M
+IKTEX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MIKTEX/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><D:/MIKTEX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/M
+IKTEX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MIKTEX/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><D:/MIKTEX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/M
+IKTEX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MIKTEX/fonts/type1/public/am
+sfonts/cm/cmmib10.pfb><D:/MIKTEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/M
+IKTEX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MIKTEX/fonts/type1/public/am
+sfonts/cm/cmr5.pfb><D:/MIKTEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MIKTE
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MIKTEX/fonts/type1/public/amsfo
+nts/cm/cmsy5.pfb><D:/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on mytex.pdf (91 pages, 1634603 bytes).
+PDF statistics:
+ 2496 PDF objects out of 2984 (max. 8388607)
+ 1222 named destinations out of 1440 (max. 500000)
+ 657 words of extra memory for PDF output out of 10000 (max. 10000000)
+
